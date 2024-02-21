@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LoginSignupPages</string>
+    <string name="welcome_to_guvenl_pat">Welcome To Guvenli Pati</string>
+    <string name="tget_started">\tGet Started</string>
+    <string name="g_venli_pati_ye_n_t_tho_geldiniz">Güvenli Pati\'ye \n\t\tHoşgeldiniz</string>
+    <string name="evcil_dostlar_n_z_i_in_nen_iyi_bak_c_lar_bulman_n_kolay_ve_keyifli_yolu_ng_venli_pati_uygulamas_yla_nt_yl_arkada_lar_n_z_n_m_kemmel_bak_m_art_k_parmaklar_n_z_n_ucunda">Evcil dostlarınız için \nen iyi bakıcıları bulmanın kolay ve keyifli yolu:\nGüvenli Pati uygulamasıyla,\ntüylü arkadaşlarınızın mükemmel bakımı artık parmaklarınızın ucunda!</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="merhaba_nl_tfen_giri_yap_n">Merhaba, \nLütfen Giriş Yapın</string>
+    <string name="todo2">TODO</string>
+</resources>
